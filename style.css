@@ -87,3 +87,6 @@ body{
     -ms-border-radius: 6px;
     -o-border-radius: 6px;
 }
+.btn:active{
+    scale: .98;
+}
