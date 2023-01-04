@@ -29,11 +29,11 @@ body{
 
 .line{
     position: absolute;
-    height: 3px;
+    height: 5px;
     width: 33%;
     transition: 0.1s ease-out;
     z-index: -1;
-    background-color: blue;
+    background-color: rgb(83, 53, 219);
     left: 0;
     top: 50%;
     transform: translateY(-50%);
@@ -69,8 +69,8 @@ body{
 }
 
 .active{
-    background-color: rgb(35, 74, 129);
-    border: 3px solid #ddd;
+    background-color: rgb(83, 53, 219);
+    border: 3px solid rgb(83, 53, 219);
     color: white;
 }
 
